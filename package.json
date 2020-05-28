@@ -2,6 +2,7 @@
 	"name": "test-fs",
 	"displayName": "test-fs",
 	"author": "vince-fugnitto",
+	"publisher": "vince-fugnitto",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
